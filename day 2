@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<style>
+    center{
+        background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+    }
+   
+    img {
+      position: absolute;
+      top: 0;
+      left: 0
+      float: right;
+</style>
+<center>
+<h1><strong>RESUME</strong></h1><br>
+
+</center>
+<p3>VIKASH A</p3><br>
+<p4>vikasha.21eie@kongu.edu</p4><br>
+<p4>contact:8525804965</p4><br>
+<hr/> 
+<body>
+ <img src="E:\WEB ENG\html assignment\vikash pic.jpg" alt="" width="125" height="125"> 
+<h>
+    <p class="head"><strong>Career Objective</strong></p>
+<ul>
+<li>I aim to work in a progressive organization that encourages growth,fosters a positive work environment and provides opputunities for continuous learning and advancement to develop my technical and administrative skills</li>
+</ul>
+<p class="head"><strong>Area of Specialization</strong></p>
+<ul>
+<li>Industrial Instrumentation</li>
+<li>Intelligent Building Automation</li>
+<li>Analog & Digital Circuits</li>
+</ul>
+<p class="head"><strong>Skills</strong></p>
+<ul>
+<li>Web Design with HTML & CSS</li>
+<li>C,Python</li>
+</ul>
+<p class="head"><strong>Education Qualification</strong></p>
+<ul>
+<li>Pursuing bachelors degree in Electronics and Instrumentation Engineering at Kongu Engineering College</li>
+<li>Completed HSC with 91%at SVB HR Secondary School in Elachipalayam </li>
+<li>Completed SSLC  with 90% at AVVAI KSR Matric School,Tiruchengode </li>
+</ul>
+<p class="head"><strong>Papers and Projects</strong></p>
+<ul>
+<li>Presented a paper on the topic “LUNGCER DETECTION” at PSG IN COIMBATORE<br>
+• Presented a paper on the topic “DOCTORLESS THERAPY” at Coimbatore institure of Technology in coimbatore
+</li>
+<li>Presented a project  on Ecllipse:Perspective is Everything at NASA SPACE APPS in Virudhunagar Nodal Centre & <br> won Best Use of Science Category Award bagged with 10000 cash prize</li>
+
+</ul>
+<p class="head"><strong>Extracurriculars</strong></p>
+<ul>
+<li>Joint Secratary-EIE Association</li>
+<li>Executive Member-ISTE Students Chapter </li>
+<li>Member-English Proficiency Club</li>
+</ul>
+<p class="head"><strong>Non Technical Skills</strong></p>
+<ul>
+<li>Singing</li>
+<li>Dancing</li>
+<li>Member-English Proficiency Club</li>
+</ul>
+</h>
+
+</html>
